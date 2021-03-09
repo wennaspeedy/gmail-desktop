@@ -105,6 +105,7 @@
         "snap",
         "tar.bz2"
       ],
+      "icon": "build/icons/",
       "category": "Network;Office"
     },
     "win": {
